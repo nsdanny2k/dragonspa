@@ -1,2 +1,2 @@
 # dragonspa
-Spa program
+Dragonspa is a SPA program deployed successfully to operate for more than a year. The object model is operationally cohesive and correct even adopted from its original design for Dental procedural work. Surprisingly the database structure is adaptable for both dental clinic and SPA. Unfortunately, due to the age of the program, the code (formerly supported by Sun Microsystems) is no longer compilable as is. But serves as solid foundation for a working SPA and dental program.
